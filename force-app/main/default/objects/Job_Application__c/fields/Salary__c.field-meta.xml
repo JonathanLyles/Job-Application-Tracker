@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salary__c</fullName>
+    <description>Gross salary</description>
+    <inlineHelpText>Enter the gross salary for this job. If a range is given this represents the mid point between high and low</inlineHelpText>
+    <label>Salary</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>
